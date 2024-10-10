@@ -1,0 +1,5 @@
+ID	Nombres	Apellidos	Deporte
+1	Daniel	Reyes	Natación
+2	Alejandro	Torres	Fútbol
+3	Juan	Jimenez	Tenis
+4	Ana	Sanchez	Natación
